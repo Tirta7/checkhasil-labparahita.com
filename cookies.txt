@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+checkhasil.labparahita.com	TRUE	/	FALSE	1999999999	ci_session	t7jeo5tiq7ngqd2u9u5m64lu69en04ub
+
